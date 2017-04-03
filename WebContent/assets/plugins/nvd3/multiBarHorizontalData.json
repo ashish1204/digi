@@ -1,0 +1,18 @@
+[
+	{
+		"key": "Series 1",
+		"color": "#d67777",
+		"values": {
+			"label": "Group I",
+			"value": -0.055746319141851
+		}
+	},
+	{
+		"key": "Series 2",
+		"color": "#4f99b4",
+		"values": {
+			"label": "Group I",
+			"value": 0
+		}
+	}
+]
